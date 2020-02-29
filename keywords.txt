@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map for MonsterMoto 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MonsterMoto	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+enable	KEYWORD2
+run	KEYWORD2
+setSpeed	KEYWORD2
+setDir	KEYWORD2
+currentSense	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MM_CW	LITERAL1
+MM_CCW	LITERAL1
+BRAKE	LITERAL1
+RELEASE	LITERAL1
