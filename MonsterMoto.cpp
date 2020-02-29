@@ -54,7 +54,7 @@ bool MonsterMoto::currentSense()
     return false;
 }
 
-void Monster::run(uint8_t motor, uint8_t direction, uint8_t speed)
+void MonsterMoto::run(uint8_t motor, uint8_t direction, uint8_t speed)
 {
   setDir(motor, direction);
   setSpeed(motor, speed);
