@@ -6,7 +6,7 @@ Usage:
 ```
 MonsterMoto motor;
 motor.enable();
-motor.run(0,MW_CCW,255);
+motor.run(0,MM_CCW,255);
 ```
 ---
 # References:
